@@ -26,5 +26,9 @@
 | 2023.03 ~ | APPS 10기                                |
 | 2023.04 ~ | 숙명여자대학교 소프트웨어학부 부학생회장 |
 
+### Experience
+- 2023 Unid-thon 대학 연합 해커톤 참여
+- Sookmyung AWS Winter Camp, Team Project 1st Prize
+
 ### Contact
 ✉️ kyungminseo22@sookmyung.ac.kr 

@@ -27,7 +27,7 @@
 |-----------|----------------------------------|----------|--------|
 | 2023.03 ~ | 내 일상의 쿠키, Cookiee          | Frontend |[React Native](https://github.com/SMWU-Cookiee/Cookiee-Client-ReactNative) -> [App Store](https://apps.apple.com/kr/app/cookiee/id6504523094) <br/> [iOS](https://github.com/SMWU-Cookiee/Cookiee-Client-iOS)|
 | 2023.09 ~ | APPS 2023 온라인 전시회          | Frontend |[React](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) -> [Web](https://2023-apps-exhibition-webpage.vercel.app/)|
-| 2023.06 ~ | 숙명여대 소프트웨어학부 홈페이지 | Frontend |[React](https://github.com/APPS-sookmyung/2023-SMSW-Web-Project-client)|
+| 2023.06 ~ | 소프트웨어학부 홈페이지 개선 프로젝트 | Frontend |[React](https://github.com/APPS-sookmyung/2023-SMSW-Web-Project-client)|
 
 <br/>
 

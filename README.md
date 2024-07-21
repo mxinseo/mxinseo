@@ -9,7 +9,7 @@
 <div>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React" />
   <img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=flat&logo=React" />
-  <img src="https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift" />
+  <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift" />
 </div>
 <div>
   <img src="https://img.shields.io/badge/-django-092E20?style=flat&logo=Django" />

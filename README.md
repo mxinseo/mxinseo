@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b721ff,100:21d4fd&height=300&section=header&text=Hi!%20%20%20I'm%20Minseo&fontSize=50&&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000046,100:1CB5E0&height=300&section=header&text=Hi!%20%20%20I'm%20Minseo&fontSize=50&&fontColor=FFFFFF" />
 
 ### Skills
 <div>

@@ -35,10 +35,10 @@
 
 |           | 소속                                     |
 |-----------|------------------------------------------|
-| 2023.03 ~ | [숙명여자대학교 개발 학회 APPS 10기](https://github.com/APPS-sookmyung)                                |
+| 2023.03 ~ | [숙명여자대학교 Web&App 개발 학회 APPS 10기](https://github.com/APPS-sookmyung)                                |
 | 2023.04 ~ 2023.12 | [숙명여자대학교 소프트웨어학부 부학생회장](https://eng.sookmyung.ac.kr/eng/5626/subview.do) |
-| 2024.01 ~ | [숙명여자대학교 개발 학회 APPS 11기 회장](https://github.com/APPS-sookmyung) |
-| 2024.03 ~ | [멋쟁이사자처럼 숙명여대 12기](https://github.com/Likelion-at-SMWU-12th) |
+| 2024.01 ~ | [숙명여자대학교 Web&App 개발 학회 APPS 11기 회장](https://github.com/APPS-sookmyung) |
+| 2024.03 ~ | [멋쟁이사자처럼 12기](https://github.com/Likelion-at-SMWU-12th) |
 
 <br/>
 

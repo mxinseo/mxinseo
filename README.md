@@ -25,9 +25,9 @@
 ## Projects
 |           | Title                            | Role     |Tool|
 |-----------|----------------------------------|----------|--------|
-| 2023.03 ~ | 내 일상의 쿠키, Cookiee          | Frontend |React Native & iOS|
-| 2023.09 ~ | APPS 2023 온라인 전시회          | Frontend |React|
-| 2023.06 ~ | 숙명여대 소프트웨어학부 홈페이지 | Frontend |React|
+| 2023.03 ~ | 내 일상의 쿠키, Cookiee          | Frontend |[React Native](https://github.com/SMWU-Cookiee/Cookiee-Client-ReactNative) -> [App Store](https://apps.apple.com/kr/app/cookiee/id6504523094) <br/> [iOS](https://github.com/SMWU-Cookiee/Cookiee-Client-iOS)|
+| 2023.09 ~ | APPS 2023 온라인 전시회          | Frontend |[React](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) -> [Web](https://2023-apps-exhibition-webpage.vercel.app/)|
+| 2023.06 ~ | 숙명여대 소프트웨어학부 홈페이지 | Frontend |[React](https://github.com/APPS-sookmyung/2023-SMSW-Web-Project-client)|
 
 <br/>
 
@@ -35,10 +35,10 @@
 
 |           | 소속                                     |
 |-----------|------------------------------------------|
-| 2023.03 ~ | 숙명여자대학교 개발 학회 APPS 10기                                |
-| 2023.04 ~ | 숙명여자대학교 소프트웨어학부 부학생회장 |
-| 2024.01 ~ | 숙명여자대학교 개발 학회 APPS 11기 회장 |
-| 2024.03 ~ | 멋쟁이사자처럼 숙명여대 12기 |
+| 2023.03 ~ | [숙명여자대학교 개발 학회 APPS 10기](https://github.com/APPS-sookmyung)                                |
+| 2023.04 ~ 2023.12 | [숙명여자대학교 소프트웨어학부 부학생회장](https://eng.sookmyung.ac.kr/eng/5626/subview.do) |
+| 2024.01 ~ | [숙명여자대학교 개발 학회 APPS 11기 회장](https://github.com/APPS-sookmyung) |
+| 2024.03 ~ | [멋쟁이사자처럼 숙명여대 12기](https://github.com/Likelion-at-SMWU-12th) |
 
 <br/>
 

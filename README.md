@@ -49,4 +49,4 @@
 <br/>
 
 ### Contact
-✉️ kyungminseo22@sookmyung.ac.kr 
+✉️ kyungminseo10@gmail.com

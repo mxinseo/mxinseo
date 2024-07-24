@@ -45,6 +45,9 @@
 ## Experience
 - 🔥 2023 Unid-thon 대학 연합 해커톤 참여
 - 🏅 Sookmyung AWS Winter Camp, Team Project 1st Prize
+- 🔥 2024 멋쟁이사자처럼 여대 연합 해커톤 HERETHON 참여
+- 🔥 2024 멋쟁이사자처럼 중앙해커톤 연합해커톤 참여
+
 
 <br/>
 

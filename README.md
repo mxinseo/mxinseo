@@ -3,22 +3,22 @@
 
 ## Skills
 <div>
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React" />
-  <img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=flat&logo=React" />
-  <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift" />
+  <img src="https://shields.io/badge/React-black?logo=React&style=flat-square" />
+  <img src="https://shields.io/badge/ReactNative-black?logo=React&style=flat-square" />
+ <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/-django-092E20?style=flat&logo=Django" />
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring" />
+  <img src="https://img.shields.io/badge/-django-092E20?style=flat-square&logo=Django" />
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
 <div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma" />
-  <img src="https://img.shields.io/badge/-notion-000000?style=flat&logo=notion" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-notion-000000?style=flat-square&logo=notion" />
 </div>
 
 <br/>
@@ -39,7 +39,7 @@
 | 2023.03 ~ | [숙명여자대학교 Web&App 개발 학회 APPS 10기](https://github.com/APPS-sookmyung)                                |
 | 2023.04 ~ 2023.12 | [숙명여자대학교 소프트웨어학부 부학생회장](https://eng.sookmyung.ac.kr/eng/5626/subview.do) |
 | 2024.01 ~ | [숙명여자대학교 Web&App 개발 학회 APPS 11기 회장](https://github.com/APPS-sookmyung) |
-| 2024.03 ~ | [멋쟁이사자처럼 12기](https://github.com/Likelion-at-SMWU-12th) |
+| 2024.03 ~ | [멋쟁이사자처럼 대학 12기](https://github.com/Likelion-at-SMWU-12th) |
 
 <br/>
 
@@ -47,7 +47,7 @@
 - 🔥 2023 Unid-thon 대학 연합 해커톤 참여
 - 🏅 Sookmyung AWS Winter Camp, Team Project 1st Prize
 - 🔥 2024 멋쟁이사자처럼 여대 연합 해커톤 HERETHON 참여
-- 🔥 2024 멋쟁이사자처럼 중앙해커톤 연합해커톤 참여
+- 🔥 2024 멋쟁이사자처럼 대학 12th HACKATHON 참여
 
 
 <br/>

@@ -54,3 +54,5 @@
 
 ### Contact
 ✉️ kyungminseo10@gmail.com
+<br/>
+☕️ [velog - rrudalstj](https://velog.io/@rrudalstj/posts)

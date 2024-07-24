@@ -18,7 +18,7 @@
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma" />
-  <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity" />
+  <img src="https://img.shields.io/badge/-notion-000000?style=flat&logo=notion" />
 </div>
 
 <br/>

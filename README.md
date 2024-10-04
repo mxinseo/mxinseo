@@ -48,6 +48,7 @@
 - 🏅 Sookmyung AWS Winter Camp, Team Project 1st Prize
 - 🔥 2024 멋쟁이사자처럼 여대 연합 해커톤 HERETHON 참여
 - 🔥 2024 멋쟁이사자처럼 대학 12th HACKATHON 참여
+- ✨ 2024 멋쟁이사자처럼 대학 연합 네트워킹 [어흥콘](https://ryuseunghan.notion.site/2024-d3216bd249b8427caca1e38913c9238c) 인기상
 
 
 <br/>
@@ -55,4 +56,4 @@
 ### Contact
 ✉️ kyungminseo10@gmail.com
 <br/>
-☕️ [velog - rrudalstj](https://velog.io/@rrudalstj/posts)
+

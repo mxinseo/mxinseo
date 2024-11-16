@@ -49,7 +49,7 @@
 - 🔥 2024 멋쟁이사자처럼 여대 연합 해커톤 HERETHON 참여
 - 🔥 2024 멋쟁이사자처럼 대학 12th HACKATHON 참여
 - ✨ 2024 멋쟁이사자처럼 대학 연합 네트워킹 [어흥콘](https://ryuseunghan.notion.site/2024-d3216bd249b8427caca1e38913c9238c) 인기상
-- 🥉 2024 AWS 주관 Gen AI Playground 해커톤 우수상
+- 🥉 2024 [AWS 주관 Gen AI Playground 해커톤](https://www.canva.com/design/DAGSiC2_DbA/F4OgAj6ZqPHwYJipNbVlNA/view?utm_content=DAGSiC2_DbA&utm_campaign=designshare&utm_medium=link&utm_source=editor) 우수상
 
 
 <br/>

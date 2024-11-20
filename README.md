@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000046,100:1CB5E0&text=Hi,%20I'm%20Minseo!☁️&fontSize=50&&fontColor=FFFFFF" />
 
 ## 👀 Minseo Kyung
-> Sookmyung Women's University, Dept of. Software, 2022
+> 🛠️ Sookmyung Women's University, Dept of. Software, 2022 <br/>
+> ✨ Problem Solver
 
 <br/>
 

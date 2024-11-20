@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000046,100:1CB5E0&height=300&section=header&text=Hi!%20I'm Minseo&fontSize=50&&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000046,100:1CB5E0&text=Hi,%20I'm%20Minseo!☁️&fontSize=50&&fontColor=FFFFFF" />
 
 
 ## Skills
@@ -58,3 +58,12 @@
 ✉️ kyungminseo10@gmail.com
 <br/>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxinseo&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mxinseo&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mxinseo&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>

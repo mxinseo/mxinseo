@@ -29,6 +29,10 @@
 | 2023.03 -   ...| 내 일상의 쿠키, Cookiee          |Team| Frontend |[React Native](https://github.com/SMWU-Cookiee/Cookiee-Client-ReactNative) -> [App Store](https://apps.apple.com/kr/app/cookiee/id6504523094) <br/> [iOS](https://github.com/SMWU-Cookiee/Cookiee-Client-iOS)|
 | 2023.09 - 2024.03| APPS 2023 온라인 전시회          |Team| Frontend |[React](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) -> [Web](https://2023-apps-exhibition-webpage.vercel.app/)|
 | 2023.06 - 2023.12| 소프트웨어학부 홈페이지 개선 프로젝트 |Individual| Frontend |[React](https://github.com/APPS-sookmyung/2023-SMSW-Web-Project-client)|
+| 2024.06 - 2024.07| 여성 전용 시설 안내 서비스, She's place |Team| Backend |[Django](https://github.com/2024-HERETHON/2024-Herethon-13)|
+| 2024.07 - 2024.09| 한의학 기반 맞춤형 건강관리 서비스, 한케어 |Team| Backend |[Django](https://github.com/Likelion-at-SMWU-12th/Hanappun-Server)|
+| 2024.10 - 2024.11| 혼자 그리고 함께 체계적으로 관리하는 일정, PlanPal |Team| Backend |[Django](https://github.com/2024-4LINETHON-PlanPal/2024-4LINETHON-PlanPal-Server)|
+
 
 <br/>
 
@@ -60,5 +64,5 @@
 
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mxinseo&show_icons=true&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&theme=graywhite" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=mxinseo&show_icons=true&count_private=true&theme=graywhite" />
 </a>

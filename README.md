@@ -60,5 +60,5 @@
 
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mxinseo&show_icons=true&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=mxinseo&show_icons=true&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&theme=graywhite" width=56% />
 </a>

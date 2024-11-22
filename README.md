@@ -30,7 +30,7 @@
 
 ## Projects
 |           | Title                            |Type| Role     |Stack|
-|-----------|----------------------------------|-------|----------|--------|
+|-------------|----------------------------------|-------|----------|--------|
 | 2023.03 -   ...| 내 일상의 쿠키, Cookiee          |Team| Frontend |[React Native](https://github.com/SMWU-Cookiee/Cookiee-Client-ReactNative) -> [iOS](https://github.com/SMWU-Cookiee/Cookiee-Client-iOS)|
 | 2023.09 - 2024.03| APPS 2023 온라인 전시회          |Team| Frontend |[React](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) -> [Web](https://2023-apps-exhibition-webpage.vercel.app/)|
 | 2023.06 - 2023.12| 소프트웨어학부 홈페이지 개선 프로젝트 |Individual| Frontend |[React](https://github.com/APPS-sookmyung/2023-SMSW-Web-Project-client)|

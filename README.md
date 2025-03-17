@@ -13,7 +13,7 @@
 <div>
   <img src="https://shields.io/badge/React-black?logo=React&style=flat-square" />
   <img src="https://shields.io/badge/ReactNative-black?logo=React&style=flat-square" />
- <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+ <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/-django-092E20?style=flat-square&logo=Django" />

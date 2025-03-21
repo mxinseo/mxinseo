@@ -26,10 +26,10 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-notion-000000?style=flat&logo=notion" />
 </div>
-<div>
+<!-- <div>
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=flat&logo=jupyter&logoColor=F37726" />
   <img src="https://img.shields.io/badge/Colab-bc5c1d.svg?style=flat&logo=googlecolab&logoColor=F9AB00" />
-</div>
+</div> -->
 
 
 <br/>

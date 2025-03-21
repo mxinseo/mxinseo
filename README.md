@@ -36,7 +36,7 @@
 | 2024.07-2024.09| 한의학 기반 맞춤형 건강관리 서비스, 한케어 |Team| Backend |[Django](https://github.com/Likelion-at-SMWU-12th/Hanappun-Server)|
 | 2024.10-2024.11| 혼자 그리고 함께 체계적으로 관리하는 일정, PlanPal |Team| Backend |[Django](https://github.com/2024-4LINETHON-PlanPal/2024-4LINETHON-PlanPal-Server)|
 | 2024.11-2024.11| 우리 아이를 위한 금융교육 플랫폼 , 아임파인 |Team| Data/Backend |[Python](https://github.com/LikeLion-mini-project-IMFINE)/[Spring](https://github.com/LikeLion-mini-project-IMFINE/IMFINE-server) |
-| 2025.03-...(~2025.09)| 독거노인을 위한 실시간 이상 행동 감지 AI Vison 프로젝트(가제) |Team| | Python/Spring |
+| 2025.03-...(~2025.09)| 독거노인 실시간 이상 행동 감지 AI Vison 프로젝트(가제) |Team| | Python/Spring |
 
 <br/>
 

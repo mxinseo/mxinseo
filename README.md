@@ -6,23 +6,23 @@
 
 ## Skills
 <div>
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 </div>
 <div>
-  <img src="https://shields.io/badge/React-black?logo=React&style=flat-square" />
-  <img src="https://shields.io/badge/ReactNative-black?logo=React&style=flat-square" />
- <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://shields.io/badge/React-black?logo=React&style=flat" />
+  <img src="https://shields.io/badge/ReactNative-black?logo=React&style=flat" />
+ <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=Swift&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-django-092E20?style=flat-square&logo=Django" />
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JAVA-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-django-092E20?style=flat&logo=Django" />
+  <img src="https://img.shields.io/badge/-JAVA-1E8CBE?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 <div>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-notion-000000?style=flat-square&logo=notion" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-notion-000000?style=flat&logo=notion" />
 </div>
 
 <br/>

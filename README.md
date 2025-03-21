@@ -4,7 +4,9 @@
 
 <br/>
 
-## Skills
+
+
+**Skills**
 <div>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -26,23 +28,24 @@
 </div>
 
 <br/>
+<br/>
 
-## Projects
+**Projects**
 |           | Title                            | Role     |Stack|
 |----------------|----------------------------------|----------|--------|
-| 2023.03-2025.03 | 내 일상의 쿠키, Cookiee          | Frontend |[React Native](https://github.com/SMWU-Cookiee/Cookiee-Client-ReactNative) → [iOS](https://github.com/SMWU-Cookiee/Cookiee-Client-iOS)|
-| 2023.09-2024.03| APPS 2023 온라인 전시회          | Frontend |[React](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage)([Web](https://2023-apps-exhibition-webpage.vercel.app/))|
-| 2023.06-2023.12| 소프트웨어학부 홈페이지 개선 프로젝트 | Frontend |[React](https://github.com/APPS-sookmyung/2023-SMSW-Web-Project-client)|
-| 2024.06-2024.07| 여성 전용 시설 안내 서비스, She's place | Backend |[Django](https://github.com/2024-HERETHON/2024-Herethon-13)|
-| 2024.07-2024.09| 한의학 기반 맞춤형 건강관리 서비스, 한케어 | Backend |[Django](https://github.com/Likelion-at-SMWU-12th/Hanappun-Server)|
-| 2024.10-2024.11| 혼자 그리고 함께 체계적으로 관리하는 일정, PlanPal | Backend |[Django](https://github.com/2024-4LINETHON-PlanPal/2024-4LINETHON-PlanPal-Server)|
-| 2024.11-2024.11| 우리 아이를 위한 금융교육 플랫폼 , 아임파인 | Data/Backend |[Python](https://github.com/LikeLion-mini-project-IMFINE)/[Spring](https://github.com/LikeLion-mini-project-IMFINE/IMFINE-server) |
+| 2023.03-2025.03 | 내 일상의 쿠키, Cookiee          | `Frontend` |[React Native](https://github.com/SMWU-Cookiee/Cookiee-Client-ReactNative) → [iOS](https://github.com/SMWU-Cookiee/Cookiee-Client-iOS)|
+| 2023.09-2024.03| APPS 2023 온라인 전시회          | `Frontend` |[React](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage)([Web](https://2023-apps-exhibition-webpage.vercel.app/))|
+| 2023.06-2023.12| 소프트웨어학부 홈페이지 개선 프로젝트 | `Frontend` |[React](https://github.com/APPS-sookmyung/2023-SMSW-Web-Project-client)|
+| 2024.06-2024.07| 여성 전용 시설 안내 서비스, She's place | `Backend` |[Django](https://github.com/2024-HERETHON/2024-Herethon-13)|
+| 2024.07-2024.09| 한의학 기반 맞춤형 건강관리 서비스, 한케어 | `Backend` |[Django](https://github.com/Likelion-at-SMWU-12th/Hanappun-Server)|
+| 2024.10-2024.11| 혼자 그리고 함께 체계적으로 관리하는 일정, PlanPal | `Backend` |[Django](https://github.com/2024-4LINETHON-PlanPal/2024-4LINETHON-PlanPal-Server)|
+| 2024.11-2024.11| 우리 아이를 위한 금융교육 플랫폼 , 아임파인 | `Data/Backend` |[Python](https://github.com/LikeLion-mini-project-IMFINE)/[Spring](https://github.com/LikeLion-mini-project-IMFINE/IMFINE-server) |
 | 2025.03-...(~2025.09)| 독거노인 실시간 이상 행동 감지 AI Vison 프로젝트(가제) | | Python/Spring |
 
 <br/>
+<br/>
 
-## I'm in..
-
+**I'm in..**
 |           | 소속                                     |
 |-----------|------------------------------------------|
 | 2023.03 ~ 2024.12 | [숙명여자대학교 Web&App 개발 학회 APPS 10기](https://github.com/APPS-sookmyung)                                |
@@ -52,23 +55,24 @@
 | 2025.01 ~ | [멋쟁이사자처럼 대학 13기 Backend 운영진 ](https://github.com/Likelion-at-SMWU-13th) |
 
 <br/>
+<br/>
 
-## Experience
-- 🔥 2023 Unid-thon 대학 연합 해커톤 참여
-- 🏅 Sookmyung AWS Winter Camp, Team Project 1st Prize
-- 🔥 2024 멋쟁이사자처럼 여대 연합 해커톤 HERETHON 참여
-- 🔥 2024 멋쟁이사자처럼 대학 12th HACKATHON 참여
-- ✨ 2024 멋쟁이사자처럼 대학 연합 네트워킹 어흥콘 인기상
-- 🏅 2024 AWS 주관 Gen AI Playground 해커톤 우수상
-- 🔥 2024 멋쟁이사자처럼 대학 연합 해커톤 4호선톤 참여
+**Experience** <br/><br/>
+🔥 2023 Unid-thon 대학 연합 해커톤 참여 <br/>
+🏅 Sookmyung AWS Winter Camp, Team Project 1st Prize <br/>
+🔥 2024 멋쟁이사자처럼 여대 연합 해커톤 HERETHON 참여 <br/>
+🔥 2024 멋쟁이사자처럼 대학 12th HACKATHON 참여 <br/>
+✨ 2024 멋쟁이사자처럼 대학 연합 네트워킹 어흥콘 인기상 <br/>
+🏅 2024 AWS 주관 Gen AI Playground 해커톤 우수상 <br/>
+🔥 2024 멋쟁이사자처럼 대학 연합 해커톤 4호선톤 참여 <br/>
 
 
 <br/>
-
-## Contact
-✉️ kyungminseo10@gmail.com
 <br/>
-🔮 [@rrudalstj](https://www.instagram.com/rrudalstj/)
+
+**Contact**
+> ✉️ kyungminseo10@gmail.com <br/>
+> 🔮 [@rrudalstj](https://www.instagram.com/rrudalstj/)
 
 <br/>
 

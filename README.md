@@ -16,10 +16,11 @@
  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </div>
 <div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-django-092E20?style=flat-square&logo=Django" />
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JAVA-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
 <div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-notion-000000?style=flat-square&logo=notion" />
 </div>
@@ -29,8 +30,8 @@
 ## Projects
 |           | Title                            |Type| Role     |Stack|
 |----------------|----------------------------------|-------|----------|--------|
-| 2023.03- ...| 내 일상의 쿠키, Cookiee          |Team| Frontend |[React Native](https://github.com/SMWU-Cookiee/Cookiee-Client-ReactNative) -> [iOS](https://github.com/SMWU-Cookiee/Cookiee-Client-iOS)|
-| 2023.09-2024.03| APPS 2023 온라인 전시회          |Team| Frontend |[React](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage) -> [Web](https://2023-apps-exhibition-webpage.vercel.app/)|
+| 2023.03-2025.03 | 내 일상의 쿠키, Cookiee          |Team| Frontend |[React Native](https://github.com/SMWU-Cookiee/Cookiee-Client-ReactNative) → [iOS](https://github.com/SMWU-Cookiee/Cookiee-Client-iOS)|
+| 2023.09-2024.03| APPS 2023 온라인 전시회          |Team| Frontend |[React](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage)([Web](https://2023-apps-exhibition-webpage.vercel.app/))|
 | 2023.06-2023.12| 소프트웨어학부 홈페이지 개선 프로젝트 |Individual| Frontend |[React](https://github.com/APPS-sookmyung/2023-SMSW-Web-Project-client)|
 | 2024.06-2024.07| 여성 전용 시설 안내 서비스, She's place |Team| Backend |[Django](https://github.com/2024-HERETHON/2024-Herethon-13)|
 | 2024.07-2024.09| 한의학 기반 맞춤형 건강관리 서비스, 한케어 |Team| Backend |[Django](https://github.com/Likelion-at-SMWU-12th/Hanappun-Server)|

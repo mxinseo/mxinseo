@@ -31,7 +31,7 @@
 <br/>
 
 #### Projects
-|           | Title                            | Role     |Stack|
+| Duration | Title | Role | Stack |
 |----------------|----------------------------------|----------|--------|
 | 2023.03-2025.03 | 내 일상의 쿠키, Cookiee          | `Frontend` |[React Native](https://github.com/SMWU-Cookiee/Cookiee-Client-ReactNative) → [iOS](https://github.com/SMWU-Cookiee/Cookiee-Client-iOS)|
 | 2023.09-2024.03| APPS 2023 온라인 전시회          | `Frontend` |[React](https://github.com/APPS-sookmyung/2023-APPS-Exhibition-Webpage)([Web](https://2023-apps-exhibition-webpage.vercel.app/))|
@@ -46,7 +46,7 @@
 <br/>
 
 #### I'm in..
-|           | 소속                                     |
+|Duration|Title|
 |-----------|------------------------------------------|
 | 2023.03 ~ 2024.12 | [숙명여자대학교 Web&App 개발 학회 APPS 10기](https://github.com/APPS-sookmyung)                                |
 | 2023.04 ~ 2023.12 | [숙명여자대학교 소프트웨어학부 부학생회장](https://eng.sookmyung.ac.kr/eng/5626/subview.do) |

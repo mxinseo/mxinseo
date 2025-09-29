@@ -57,6 +57,7 @@
 | 2024.01 ~ 2024.12 | [숙명여자대학교 Web&App 개발 학회 APPS 11기 회장](https://github.com/APPS-sookmyung) |
 | 2024.03 ~ 2024.12 | [멋쟁이사자처럼 대학 12기 Backend](https://github.com/Likelion-at-SMWU-12th) |
 | 2025.01 ~ | [멋쟁이사자처럼 대학 13기 Backend 운영진 ](https://github.com/Likelion-at-SMWU-13th) |
+| 2025.01 ~ | [멋쟁이사자처럼 대학 13기 중앙운영단 ](https://likelion.university/) |
 
 
 <br/>
